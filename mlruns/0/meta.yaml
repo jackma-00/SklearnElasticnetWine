@@ -1,6 +1,6 @@
-artifact_location: file:///home/jack/Intership/sklearn_elasticnet_wine/mlruns/0
-creation_time: 1663686555783
+artifact_location: file:///home/jack/Intership/SklearnElasticnetWine/mlruns/0
+creation_time: 1663748760018
 experiment_id: '0'
-last_update_time: 1663686555783
+last_update_time: 1663748760018
 lifecycle_stage: active
 name: Default
