@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jack/Intership/sklearn_elasticnet_wine/mlruns/0/aa7dfcf93dd748a3afe4433acd0d656d/artifacts
+end_time: 1663686559510
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: aa7dfcf93dd748a3afe4433acd0d656d
+run_uuid: aa7dfcf93dd748a3afe4433acd0d656d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1663686555841
+status: 3
+tags: []
+user_id: jack
